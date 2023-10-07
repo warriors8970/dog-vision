@@ -8,3 +8,5 @@ These are the custom images which I took from google.
 
 I have used MobileNetV2 Model to train and predict the output.
 The dataset for this was available in Kaggle.
+
+I have used Tensorflow framework for this project
